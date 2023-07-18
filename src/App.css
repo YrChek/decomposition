@@ -1,0 +1,25 @@
+.container {
+  max-width: 1200px;
+}
+.newsBlock {
+  display: flex;
+  width: 70%;
+}
+.news {
+  display: block;
+  width: 50%;
+}
+.billboard {
+  display: flex;
+  width: 70%;
+  height: 70px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+.widget {
+  width: 300px;
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+}
